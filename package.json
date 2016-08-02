@@ -31,7 +31,7 @@
     "contributors": [],
     "dependencies": {
         "seedrandom":">=0.x",
-        "sugar": ">=1.4.1",
+        "sugar": "1.4.1",
         "underscore": ">=1.5.2",
         "uglify-js": ">=2.3",
         "nodeunit": ">=0.x",
